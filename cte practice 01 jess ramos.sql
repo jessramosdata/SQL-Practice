@@ -2,8 +2,8 @@
 
 
 
---Problem: Find the minimum, maximum, and standard deviation for all of the purchase amount averages by state
---Hint: Find the purchase amount averages first and save them as a CTE. Then calculate the min, max, and stddev below
+--Problem: Find the minimum, maximum, and standard deviation for all of the avergae purchase amounts by state
+--Hint: Find the purchase amount averages by state first and save them as a CTE. Then calculate the min, max, and stddev below
 --Post on LinkedIn, Instagram, or TikTok and tag Jess Ramos!
 
 
